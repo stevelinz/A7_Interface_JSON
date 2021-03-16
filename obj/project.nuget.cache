@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XUEJSYxY1djYugOj+6pRIZ+aGlyIpjx4vcNvZHQKHd6UicERJeurvudi2yKmcPcB5rWYlO9scZx1RkP5icLz9g==",
+  "dgSpecHash": "0GGGADKkV11Qc6gGfK89Yugotg/PG822hyU/HbP5qOGrenrDgabntJm1cbXkHAMDdmhTx6D3MKZJKErPPLr1ew==",
   "success": true,
-  "projectFilePath": "/Users/steve/Desktop/C# Cla post MT/A7_Interfaces_Linz/A4___Movie-Library-Assignment-LINZ.csproj",
+  "projectFilePath": "/Users/steve/Desktop/C# Cla post MT/A7_Interface_JSON/A4___Movie-Library-Assignment-LINZ.csproj",
   "expectedPackageFiles": [
     "/Users/steve/.nuget/packages/json.net/1.0.25/json.net.1.0.25.nupkg.sha512",
     "/Users/steve/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

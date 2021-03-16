@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/steve/Desktop/C# Cla post MT/A7_Interfaces_Linz/A4___Movie-Library-Assignment-LINZ.csproj",
+      "projectUniqueName": "/Users/steve/Desktop/C# Cla post MT/A7_Interface_JSON/A4___Movie-Library-Assignment-LINZ.csproj",
       "projectName": "A4___Movie-Library-Assignment-LINZ",
-      "projectPath": "/Users/steve/Desktop/C# Cla post MT/A7_Interfaces_Linz/A4___Movie-Library-Assignment-LINZ.csproj",
+      "projectPath": "/Users/steve/Desktop/C# Cla post MT/A7_Interface_JSON/A4___Movie-Library-Assignment-LINZ.csproj",
       "packagesPath": "/Users/steve/.nuget/packages/",
-      "outputPath": "/Users/steve/Desktop/C# Cla post MT/A7_Interfaces_Linz/obj/",
+      "outputPath": "/Users/steve/Desktop/C# Cla post MT/A7_Interface_JSON/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/steve/.nuget/NuGet/NuGet.Config"
