@@ -29,8 +29,9 @@ namespace A4___Movie_Library_Assignment_LINZ
                         count++;
                     }
                     System.Console.Write(genreArray[genreSelect] + " \n\n");
-                    System.Console.WriteLine("Enter number for a genre to add 1 through 19, ");
-                    System.Console.WriteLine("or 0 when  done and then the movie is added.");
+                    System.Console.WriteLine("\tEnter number for a genre to add 1 through 19, ");
+                    System.Console.Write("\tor 0 when  done and then the movie is added.\t");
+                    System.Console.WriteLine();
 
                     genreSelect = Convert.ToInt32(Console.ReadLine());
                     if (genreSelect < 1 || genreSelect > 20)

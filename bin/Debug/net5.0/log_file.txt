@@ -50,3 +50,22 @@
 2021-03-16 16:04:48.3081 INFO Quit the movie viewing.
 2021-03-16 16:04:52.8421 INFO EXIT at Select Action 
 2021-03-16 16:04:52.8429 INFO Exit the Program
+2021-03-16 17:56:39.8475 INFO EXIT at Select Action 
+2021-03-16 17:56:39.8837 INFO Exit the Program
+2021-03-16 17:56:55.1013 INFO LIST at Select Action 
+2021-03-16 17:56:55.1388 INFO Deciding on forward or reverse order.
+2021-03-16 17:57:02.6332 INFO Movies viewed in reserve order.
+2021-03-16 17:57:02.6361 INFO Another 30 movies viewed.
+2021-03-16 17:57:06.2443 INFO Quit the movie viewing.
+2021-03-16 17:57:11.1159 INFO Wrong input at Select Action 
+2021-03-16 17:57:23.7714 INFO LIST at Select Action 
+2021-03-16 17:57:23.7722 INFO Deciding on forward or reverse order.
+2021-03-16 17:57:50.3311 INFO Movies viewed in reserve order.
+2021-03-16 17:57:50.3336 INFO Another 30 movies viewed.
+2021-03-16 17:57:52.6263 INFO Quit the movie viewing.
+2021-03-16 17:57:57.2041 INFO ADD at Select Action 
+2021-03-16 17:58:35.2868 INFO Display Available genres (1 thru 19)
+2021-03-16 17:58:35.2873 INFO Adding a genre
+2021-03-16 17:59:01.9448 INFO Added genre number 12 to the movie
+2021-03-16 17:59:07.5894 INFO Creating a temp file for JSON
+2021-03-16 17:59:07.6006 INFO appending a JSON entry

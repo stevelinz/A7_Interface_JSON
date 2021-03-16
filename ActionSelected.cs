@@ -15,16 +15,19 @@ namespace A4___Movie_Library_Assignment_LINZ
             switch (select)
             {
                 case "1":
+                case "l": // the letter is more intuitive
                     nLogger.nLog("LIST at Select Action ");
                     ListMovie listMovie = new ListMovie();
                     listMovie.useFile();  
                     break;
                 case "2":
+                case "a":
                     nLogger.nLog("ADD at Select Action ");
                     AddMovie addMovie = new AddMovie();
                     addMovie.addTest();
                     break;
                 case "3":
+                case "e":
                     nLogger.nLog("EXIT at Select Action ");
                     Exit exit = new Exit();
                     exit.exitTest();
