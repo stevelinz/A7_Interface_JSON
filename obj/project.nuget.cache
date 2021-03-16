@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUEJSYxY1djYugOj+6pRIZ+aGlyIpjx4vcNvZHQKHd6UicERJeurvudi2yKmcPcB5rWYlO9scZx1RkP5icLz9g==",
+  "success": true,
+  "projectFilePath": "/Users/steve/Desktop/C# Cla post MT/A7_Interfaces_Linz/A4___Movie-Library-Assignment-LINZ.csproj",
+  "expectedPackageFiles": [
+    "/Users/steve/.nuget/packages/json.net/1.0.25/json.net.1.0.25.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/nlog/4.7.6/nlog.4.7.6.nupkg.sha512",
+    "/Users/steve/.nuget/packages/nlog.extensions.logging/1.7.0/nlog.extensions.logging.1.7.0.nupkg.sha512",
+    "/Users/steve/.nuget/packages/nlog.web.aspnetcore/4.10.0/nlog.web.aspnetcore.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

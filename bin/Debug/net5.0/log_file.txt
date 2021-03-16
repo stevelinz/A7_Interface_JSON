@@ -1,0 +1,39 @@
+
+2021-03-16 08:23:19.9757 INFO LIST at Select Action 
+2021-03-16 08:23:25.0615 INFO Movies viewed in reserve order.
+2021-03-16 08:23:27.7514 INFO Quit the movie viewing.
+2021-03-16 08:23:30.2256 INFO ADD at Select Action 
+2021-03-16 08:23:53.4463 INFO Display Available genres
+2021-03-16 08:23:53.4463 INFO Adding a genre
+2021-03-16 08:24:00.6573 INFO Added another genre to the movie
+2021-03-16 08:24:02.7266 INFO Creating a temp file for JSON
+2021-03-16 08:24:02.7342 INFO appending a JSON entry
+2021-03-16 08:24:08.7104 INFO EXIT at Select Action 
+2021-03-16 08:24:08.7113 INFO Exit the Program
+2021-03-16 09:12:29.1138 INFO LIST at Select Action 
+2021-03-16 09:12:32.1797 INFO Movies viewed in reserve order.
+2021-03-16 09:12:42.6540 INFO Quit the movie viewing.
+2021-03-16 09:12:45.5900 INFO ADD at Select Action 
+2021-03-16 09:13:10.1376 INFO Display Available genres
+2021-03-16 09:13:10.1376 INFO Adding a genre
+2021-03-16 09:13:38.0485 INFO Added another genre to the movie
+2021-03-16 09:13:39.5542 INFO Creating a temp file for JSON
+2021-03-16 09:13:39.5617 INFO appending a JSON entry
+2021-03-16 09:13:47.0677 INFO EXIT at Select Action 
+2021-03-16 09:13:47.0687 INFO Exit the Program
+2021-03-16 09:14:11.3400 INFO LIST at Select Action 
+2021-03-16 09:14:14.2132 INFO Movies viewed in reserve order.
+2021-03-16 10:11:27.0436 INFO Quit the movie viewing.
+2021-03-16 10:11:30.4180 INFO Wrong input at Select Action 
+2021-03-16 10:11:32.2742 INFO EXIT at Select Action 
+2021-03-16 10:11:32.2752 INFO Exit the Program
+2021-03-16 10:11:44.6798 INFO LIST at Select Action 
+2021-03-16 10:11:44.7188 INFO Deciding on forward or reverse order.
+2021-03-16 10:11:48.8900 INFO Movies viewed in reserve order.
+2021-03-16 10:11:48.8929 INFO Another 30 movies viewed.
+2021-03-16 10:11:52.3772 INFO Another 30 movies viewed.
+2021-03-16 10:11:53.5132 INFO Another 30 movies viewed.
+2021-03-16 10:11:56.1343 INFO Another 30 movies viewed.
+2021-03-16 10:11:59.8351 INFO Quit the movie viewing.
+2021-03-16 10:12:02.3323 INFO EXIT at Select Action 
+2021-03-16 10:12:02.3334 INFO Exit the Program
