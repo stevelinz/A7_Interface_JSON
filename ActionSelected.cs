@@ -2,10 +2,8 @@
 
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    class ActionSelected : IMenus
+        class ActionSelected : IMenus
     {
-
-
         public void selectAction()
         {
             NLogger nLogger = new NLogger();

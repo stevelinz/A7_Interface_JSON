@@ -33,15 +33,13 @@ namespace A4___Movie_Library_Assignment_LINZ
                     System.Console.WriteLine("or 0 when  done and then the movie is added.");
 
                     genreSelect = Convert.ToInt32(Console.ReadLine());
-
-
                     if (genreSelect < 1 || genreSelect > 20)
                     {
                         return genreString;
                     }
                     else
                     {
-                        nLogger.nLog("Added another genre to the movie");
+                        nLogger.nLog("Added genre number " + genreSelect + " to the movie");
                         genreString = genreString + "|" + genreArray[genreSelect];
                     }
                 }

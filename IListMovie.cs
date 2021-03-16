@@ -1,6 +1,6 @@
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    interface IListMovie
+        interface IListMovie
     {
         void useFile();
     }

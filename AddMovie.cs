@@ -10,6 +10,7 @@ namespace A4___Movie_Library_Assignment_LINZ
 
         string file = "movies.csv";
         StreamReader sr = new StreamReader("movies.csv");
+        StreamWriter sw = new StreamWriter("movies.csv", true);
         public void addTest()
         {
             {
@@ -57,6 +58,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 if (movieName.Contains(","))
                 {
                     movieName = "\"" + movieName.Trim() + "\"";
+                     nLogger.nLog("An attempt to add a Movie was aborted");
                 }
                 sr = new StreamReader(file);
 
@@ -74,6 +76,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                         nLogger.nLog("Tried to add an existing movie");
                         System.Console.WriteLine(" This movie is already on the list");
                         sr.Close();
+                        sw.Close();
                         action.selectAction();
                     }
                 }
@@ -88,7 +91,6 @@ namespace A4___Movie_Library_Assignment_LINZ
                  +"\t" + "\"" + "genres" + "\"" + ": " + "\"" + genreAddCopy + "\"" + "\n" + "}" + "\n";
 
                 System.Console.WriteLine(movieString);
-                StreamWriter sw = new StreamWriter(file, true);
                 sw.WriteLine(movieString);
 
                 removeBracket();

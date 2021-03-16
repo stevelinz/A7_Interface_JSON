@@ -6,7 +6,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         NLogger nLogger = new NLogger();
         public void showGenres()
         {
-            nLogger.nLog("Display Available genres");
+            nLogger.nLog("Display Available genres (1 thru 19)");
 
             System.Console.WriteLine(
                "\n1 Action\t\t\t\t10 Film-Noir\n" +

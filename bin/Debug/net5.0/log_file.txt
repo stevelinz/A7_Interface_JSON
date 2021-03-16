@@ -37,3 +37,16 @@
 2021-03-16 10:11:59.8351 INFO Quit the movie viewing.
 2021-03-16 10:12:02.3323 INFO EXIT at Select Action 
 2021-03-16 10:12:02.3334 INFO Exit the Program
+2021-03-16 16:03:10.3590 INFO LIST at Select Action 
+2021-03-16 16:03:10.3949 INFO Deciding on forward or reverse order.
+2021-03-16 16:03:24.2667 INFO Another 30 movies viewed.
+2021-03-16 16:03:28.0458 INFO Quit the movie viewing.
+2021-03-16 16:03:30.1267 INFO EXIT at Select Action 
+2021-03-16 16:03:30.1277 INFO Exit the Program
+2021-03-16 16:04:22.2717 INFO LIST at Select Action 
+2021-03-16 16:04:22.3069 INFO Deciding on forward or reverse order.
+2021-03-16 16:04:45.0146 INFO Movies viewed in reserve order.
+2021-03-16 16:04:45.0176 INFO Another 30 movies viewed.
+2021-03-16 16:04:48.3081 INFO Quit the movie viewing.
+2021-03-16 16:04:52.8421 INFO EXIT at Select Action 
+2021-03-16 16:04:52.8429 INFO Exit the Program

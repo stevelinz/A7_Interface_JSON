@@ -3,7 +3,6 @@ namespace A4___Movie_Library_Assignment_LINZ
 {
     class NLogger
     {
-
         public void nLog(string actionType)
         {
             string path = "nlog.config";

@@ -18,7 +18,10 @@ namespace A4___Movie_Library_Assignment_LINZ
 
             string listReverseOrder = "";
 
-            System.Console.Write("Would you like to view the list from the end to the beginning? [Y]es [N]o?    ");
+            System.Console.WriteLine("\tThis is a LONG list. You are given the option to start at the beginning.");
+            System.Console.WriteLine("\t\tOr you can start at the end and read the back to front\n\n");
+
+            System.Console.Write("\tWould you like to view the list from the end to the beginning? [Y]es [N]o?    ");
             nLogger.nLog("Deciding on forward or reverse order.");
             listReverseOrder = Console.ReadLine();
 
