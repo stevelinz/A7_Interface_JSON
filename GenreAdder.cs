@@ -20,7 +20,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 System.Console.WriteLine("When your input is complete, then 0 for done, and then the movie is added.\n\n");
                 nLogger.nLog("Adding a genre");
                 genreSelect = Convert.ToInt32(Console.ReadLine());
-
+                nLogger.nLog("Added genre number " + genreSelect + " to the movie");
                 while (genreSelect > 0 || genreSelect < 20)
                 {
                     if (count == 0)

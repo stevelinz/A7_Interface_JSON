@@ -157,3 +157,31 @@
 2021-03-16 19:09:26.4464 INFO Quit the movie viewing.
 2021-03-16 19:09:26.4471 INFO Closing Reader
 2021-03-16 19:09:28.2913 INFO ADD at Select Action 
+2021-03-16 21:53:42.2778 INFO Aborted the new movie add
+2021-03-16 21:53:46.9096 INFO EXIT at Select Action 
+2021-03-16 21:53:46.9106 INFO Exit the Program
+2021-03-16 21:55:26.7358 INFO ADD at Select Action 
+2021-03-16 21:56:33.7525 INFO Display Available genres (1 thru 19)
+2021-03-16 21:56:33.7533 INFO Adding a genre
+2021-03-16 21:56:49.3220 INFO Creating a temp file for JSON
+2021-03-16 21:56:49.3306 INFO appending a JSON entry
+2021-03-16 21:57:07.5342 INFO EXIT at Select Action 
+2021-03-16 21:57:07.5352 INFO Exit the Program
+2021-03-16 22:18:27.8437 INFO ADD at Select Action 
+2021-03-16 22:19:08.8400 INFO Display Available genres (1 thru 19)
+2021-03-16 22:19:08.8400 INFO Adding a genre
+2021-03-16 22:19:13.9251 INFO Added genre number 15 to the movie
+2021-03-16 22:19:17.8738 INFO Creating a temp file for JSON
+2021-03-16 22:19:17.8829 INFO appending a JSON entry
+2021-03-16 22:19:22.1140 INFO EXIT at Select Action 
+2021-03-16 22:19:22.1149 INFO Exit the Program
+2021-03-16 22:19:57.5126 INFO ADD at Select Action 
+2021-03-16 22:20:41.8258 INFO Display Available genres (1 thru 19)
+2021-03-16 22:20:41.8258 INFO Adding a genre
+2021-03-16 22:20:47.4170 INFO Added genre number 2 to the movie
+2021-03-16 22:20:51.5118 INFO Added genre number 11 to the movie
+2021-03-16 22:20:56.7537 INFO Added genre number 6 to the movie
+2021-03-16 22:20:59.0722 INFO Creating a temp file for JSON
+2021-03-16 22:20:59.0816 INFO appending a JSON entry
+2021-03-16 22:21:02.6483 INFO EXIT at Select Action 
+2021-03-16 22:21:02.6492 INFO Exit the Program
