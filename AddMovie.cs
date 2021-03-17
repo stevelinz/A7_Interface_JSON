@@ -11,7 +11,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         string file = "movies.csv";
         StreamReader sr = new StreamReader("movies.csv");
         StreamWriter sw = new StreamWriter("movies.csv", true);
-        public void addTest()
+        public void addMovieProcess()
         {
             {
                 int movieIdNew = 0;

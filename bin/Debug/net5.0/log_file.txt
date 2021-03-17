@@ -185,3 +185,19 @@
 2021-03-16 22:20:59.0816 INFO appending a JSON entry
 2021-03-16 22:21:02.6483 INFO EXIT at Select Action 
 2021-03-16 22:21:02.6492 INFO Exit the Program
+2021-03-17 10:25:25.4318 INFO LIST at Select Action 
+2021-03-17 10:25:25.4682 INFO Deciding on forward or reverse order.
+2021-03-17 10:25:27.5296 INFO Movies viewed in reserve order.
+2021-03-17 10:25:27.5321 INFO Close Read for reverse order
+2021-03-17 10:25:27.5332 INFO Another 30 movies viewed.
+2021-03-17 10:25:30.1955 INFO Quit the movie viewing.
+2021-03-17 10:25:30.1963 INFO Closing Reader
+2021-03-17 10:25:33.6601 INFO LIST at Select Action 
+2021-03-17 10:25:33.6610 INFO Deciding on forward or reverse order.
+2021-03-17 10:25:38.1249 INFO Another 30 movies viewed.
+2021-03-17 10:25:40.2967 INFO Quit the movie viewing.
+2021-03-17 10:25:40.2967 INFO Closing Reader
+2021-03-17 10:25:41.6804 INFO ADD at Select Action 
+2021-03-17 10:25:46.8670 INFO Aborted the new movie add
+2021-03-17 10:25:49.8591 INFO EXIT at Select Action 
+2021-03-17 10:25:49.8601 INFO Exit the Program

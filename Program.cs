@@ -7,8 +7,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         static void Main(string[] args)
         {
             {
-                ActionSelected action = new ActionSelected();
-                action.selectAction();
+               ((IActionSelected)new ActionSelected()).selectAction();
             }
         }
     }

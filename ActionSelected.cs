@@ -2,7 +2,7 @@
 
 namespace A4___Movie_Library_Assignment_LINZ
 {
-        class ActionSelected : IMenus
+    class ActionSelected : IMenus, IActionSelected
     {
         public void selectAction()
         {
@@ -10,21 +10,21 @@ namespace A4___Movie_Library_Assignment_LINZ
             string select = "";
             System.Console.WriteLine("\n   ~~~~Movie Library Database~~~~ ");
         andAgain:
-            System.Console.WriteLine("Enter: \n1 List the movies \n2 Add a new Movie \n3 Exit program\n");
-            select = System.Console.ReadLine();  
+            System.Console.WriteLine("Enter: \n1 List movies \n2 Add new Movie \n3 Exit\n");
+            select = System.Console.ReadLine();
             switch (select)
             {
                 case "1":
                 case "l": // the letter is more intuitive
                     nLogger.nLog("LIST at Select Action ");
                     ListMovie listMovie = new ListMovie();
-                    listMovie.useFile();  
+                    listMovie.listMovieProcess();
                     break;
                 case "2":
                 case "a":
                     nLogger.nLog("ADD at Select Action ");
                     AddMovie addMovie = new AddMovie();
-                    addMovie.addTest();
+                    addMovie.addMovieProcess();
                     break;
                 case "3":
                 case "e":
@@ -38,7 +38,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                     goto andAgain;
 
             }
-            
+
 
         }
 

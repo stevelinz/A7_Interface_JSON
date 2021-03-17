@@ -13,7 +13,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         string start = "";
         string line = "";
         StreamReader sr = new StreamReader("movies.csv");
-        public void useFile()
+        public void listMovieProcess()
         {
 
             string listReverseOrder = "";
