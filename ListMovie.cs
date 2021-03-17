@@ -36,13 +36,14 @@ namespace A4___Movie_Library_Assignment_LINZ
 
                 fewAtaTime();
             }
+            nLogger.nLog("Close Read for Not reverse order");
             sr.Close();
         }
 
         void reverseList()
         {
             ArrayList arrText = new ArrayList();
-            string sLine = "";
+            string sLine = "start";
             nLogger.nLog("Movies viewed in reserve order.");
             while (sLine != null)
             {
@@ -50,7 +51,8 @@ namespace A4___Movie_Library_Assignment_LINZ
                 if (sLine != null)
                     arrText.Add(sLine);
             }
-
+            nLogger.nLog("Close Read for reverse order");
+            sr.Close(); 
             arrText.Reverse();
 
             foreach (string sOutput in arrText)
@@ -69,6 +71,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 if (start == "q" || start == "Q" || start == "quit" || start == "Quit")
                 {
                     nLogger.nLog("Quit the movie viewing.");
+                    nLogger.nLog("Closing Reader");
                     sr.Close();
                     ActionSelected action = new ActionSelected();
                     action.selectAction();

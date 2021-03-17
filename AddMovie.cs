@@ -80,6 +80,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                         action.selectAction();
                     }
                 }
+                sr.Close();
                 string movieString;
                 string movieJSONString;
                 string genreAddCopy = genreAdder.genreAdd();
