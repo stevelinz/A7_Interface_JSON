@@ -201,3 +201,202 @@
 2021-03-17 10:25:46.8670 INFO Aborted the new movie add
 2021-03-17 10:25:49.8591 INFO EXIT at Select Action 
 2021-03-17 10:25:49.8601 INFO Exit the Program
+2021-03-18 08:17:07.4801 INFO ADD at Select Action 
+2021-03-18 08:17:31.6231 INFO Display Available genres (1 thru 19)
+2021-03-18 08:17:31.6240 INFO Adding a genre
+2021-03-18 08:17:36.3016 INFO Added genre number 6 to the movie
+2021-03-18 08:17:42.6236 INFO Added genre number 8 to the movie
+2021-03-18 08:17:45.9315 INFO Creating a temp file for JSON
+2021-03-18 08:17:45.9416 INFO appending a JSON entry
+2021-03-18 08:49:32.4297 INFO ADD at Select Action 
+2021-03-18 08:49:49.2648 INFO Display Available genres (1 thru 19)
+2021-03-18 08:49:49.2657 INFO Adding a genre
+2021-03-18 08:50:02.1902 INFO Added genre number 16 to the movie
+2021-03-18 08:50:08.4677 INFO Added genre number 8 to the movie
+2021-03-18 08:50:10.0875 INFO Creating a temp file for JSON
+2021-03-18 08:50:10.0965 INFO appending a JSON entry
+2021-03-18 09:28:47.7043 INFO ADD at Select Action 
+2021-03-18 09:29:16.6050 INFO Display Available genres (1 thru 19)
+2021-03-18 09:29:16.6058 INFO Adding a genre
+2021-03-18 09:29:20.6528 INFO Added genre number 15 to the movie
+2021-03-18 09:29:21.9576 INFO Creating a temp file for JSON
+2021-03-18 09:29:21.9667 INFO appending a JSON entry
+2021-03-18 10:01:16.9971 INFO ADD at Select Action 
+2021-03-18 10:01:37.1483 INFO Display Available genres (1 thru 19)
+2021-03-18 10:01:37.1492 INFO Adding a genre
+2021-03-18 10:01:41.5131 INFO Added genre number 5 to the movie
+2021-03-18 10:01:52.9197 INFO Added genre number 16 to the movie
+2021-03-18 10:01:54.3818 INFO Creating a temp file for JSON
+2021-03-18 10:01:54.3916 INFO Added: 
+2021-03-18 10:01:54.3923 INFO appending a JSON entry
+2021-03-18 10:01:58.7692 INFO EXIT at Select Action 
+2021-03-18 10:01:58.7702 INFO Exit the Program
+2021-03-18 10:08:09.6423 INFO ADD at Select Action 
+2021-03-18 10:08:26.8382 INFO Display Available genres (1 thru 19)
+2021-03-18 10:08:26.8390 INFO Adding a genre
+2021-03-18 10:08:30.7289 INFO Added genre number 13 to the movie
+2021-03-18 10:08:32.4728 INFO Creating a temp file for JSON
+2021-03-18 10:08:32.4829 INFO Added: 
+2021-03-18 10:08:32.4829 INFO appending a JSON entry
+2021-03-18 10:11:27.8155 INFO EXIT at Select Action 
+2021-03-18 10:11:27.8165 INFO Exit the Program
+2021-03-18 10:11:55.6860 INFO ADD at Select Action 
+2021-03-18 10:12:12.8774 INFO Display Available genres (1 thru 19)
+2021-03-18 10:12:12.8782 INFO Adding a genre
+2021-03-18 10:12:15.9820 INFO Added genre number 12 to the movie
+2021-03-18 10:12:17.4568 INFO Creating a temp file for JSON
+2021-03-18 10:12:17.4670 INFO Added: 
+2021-03-18 10:12:17.4680 INFO appending a JSON entry
+2021-03-18 10:18:59.3814 INFO EXIT at Select Action 
+2021-03-18 10:18:59.3825 INFO Exit the Program
+2021-03-18 10:19:09.9393 INFO ADD at Select Action 
+2021-03-18 10:19:17.0427 INFO Display Available genres (1 thru 19)
+2021-03-18 10:19:17.0437 INFO Adding a genre
+2021-03-18 10:19:19.2144 INFO Added genre number 2 to the movie
+2021-03-18 10:19:24.2878 INFO Creating a temp file for JSON
+2021-03-18 10:19:24.2976 INFO Added: TEST
+2021-03-18 10:19:24.2985 INFO appending a JSON entry
+2021-03-18 10:26:14.5940 INFO EXIT at Select Action 
+2021-03-18 10:26:14.5951 INFO Exit the Program
+2021-03-18 10:26:24.7163 INFO ADD at Select Action 
+2021-03-18 10:26:30.2084 INFO Display Available genres (1 thru 19)
+2021-03-18 10:26:30.2091 INFO Adding a genre
+2021-03-18 10:26:31.7380 INFO Added genre number 2 to the movie
+2021-03-18 10:26:33.5726 INFO Creating a temp file for JSON
+2021-03-18 10:26:33.5825 INFO Added: TEST
+2021-03-18 10:26:33.5834 INFO appending a JSON entry
+2021-03-18 10:26:39.0502 INFO EXIT at Select Action 
+2021-03-18 10:26:39.0513 INFO Exit the Program
+2021-03-18 10:42:55.8751 INFO ADD at Select Action 
+2021-03-18 10:42:58.9848 INFO Display Available genres (1 thru 19)
+2021-03-18 10:42:58.9859 INFO Adding a genre
+2021-03-18 10:42:59.7615 INFO Added genre number 4 to the movie
+2021-03-18 10:43:02.6972 INFO Creating a temp file for JSON
+2021-03-18 10:43:02.7066 INFO Added: 
+2021-03-18 10:43:02.7066 INFO appending a JSON entry
+2021-03-18 10:43:04.9694 INFO EXIT at Select Action 
+2021-03-18 10:43:04.9705 INFO Exit the Program
+2021-03-18 10:49:21.4716 INFO ADD at Select Action 
+2021-03-18 10:49:25.3912 INFO Display Available genres (1 thru 19)
+2021-03-18 10:49:25.3919 INFO Adding a genre
+2021-03-18 10:49:26.0437 INFO Added genre number 6 to the movie
+2021-03-18 10:49:27.1692 INFO Creating a temp file for JSON
+2021-03-18 10:49:27.1791 INFO Added:  Was Sent 
+2021-03-18 10:49:27.1800 INFO appending a JSON entry
+2021-03-18 10:49:29.4408 INFO EXIT at Select Action 
+2021-03-18 10:49:29.4420 INFO Exit the Program
+2021-03-18 10:59:35.8228 INFO ADD at Select Action 
+2021-03-18 10:59:40.4497 INFO Display Available genres (1 thru 19)
+2021-03-18 10:59:40.4505 INFO Adding a genre
+2021-03-18 10:59:41.3169 INFO Added genre number 4 to the movie
+2021-03-18 10:59:42.9370 INFO Creating a temp file for JSON
+2021-03-18 10:59:42.9467 INFO Added: 
+2021-03-18 10:59:42.9473 INFO appending a JSON entry
+2021-03-18 10:59:46.8510 INFO EXIT at Select Action 
+2021-03-18 10:59:46.8521 INFO Exit the Program
+2021-03-18 11:09:57.5054 INFO ADD at Select Action 
+2021-03-18 11:10:01.2120 INFO Display Available genres (1 thru 19)
+2021-03-18 11:10:01.2130 INFO Adding a genre
+2021-03-18 11:10:02.5168 INFO Added genre number 3 to the movie
+2021-03-18 11:10:03.5750 INFO Creating a temp file for JSON
+2021-03-18 11:10:03.5853 INFO Added: 
+2021-03-18 11:10:03.5865 INFO appending a JSON entry
+2021-03-18 11:10:05.5763 INFO EXIT at Select Action 
+2021-03-18 11:10:05.5774 INFO Exit the Program
+2021-03-18 11:42:43.4554 INFO ADD at Select Action 
+2021-03-18 12:06:55.0583 INFO ADD at Select Action 
+2021-03-18 12:11:57.2407 INFO ADD at Select Action 
+2021-03-18 12:18:29.2507 INFO ADD at Select Action 
+2021-03-18 12:18:34.0892 INFO Display Available genres (1 thru 19)
+2021-03-18 12:18:34.0903 INFO Adding a genre
+2021-03-18 12:18:35.0462 INFO Added genre number 8 to the movie
+2021-03-18 12:18:36.1488 INFO Creating a temp file for JSON
+2021-03-18 12:18:36.1591 INFO Added: 
+2021-03-18 12:18:36.1599 INFO appending a JSON entry
+2021-03-18 12:18:37.5881 INFO EXIT at Select Action 
+2021-03-18 12:18:37.5891 INFO Exit the Program
+2021-03-18 12:22:06.6303 INFO ADD at Select Action 
+2021-03-18 12:22:10.9669 INFO Display Available genres (1 thru 19)
+2021-03-18 12:22:10.9677 INFO Adding a genre
+2021-03-18 12:22:12.2716 INFO Added genre number 4 to the movie
+2021-03-18 12:22:12.9576 INFO Creating a temp file for JSON
+2021-03-18 12:22:12.9673 INFO Added: 
+2021-03-18 12:22:12.9680 INFO appending a JSON entry
+2021-03-18 12:22:14.6223 INFO EXIT at Select Action 
+2021-03-18 12:22:14.6233 INFO Exit the Program
+2021-03-18 12:27:19.9370 INFO ADD at Select Action 
+2021-03-18 12:27:24.5653 INFO Display Available genres (1 thru 19)
+2021-03-18 12:27:24.5662 INFO Adding a genre
+2021-03-18 12:33:56.7225 INFO ADD at Select Action 
+2021-03-18 12:34:01.1377 INFO Display Available genres (1 thru 19)
+2021-03-18 12:34:01.1385 INFO Adding a genre
+2021-03-18 12:34:02.6676 INFO Added genre number 2 to the movie
+2021-03-18 12:34:04.4116 INFO Added: 164999,sadasd,Adventure
+2021-03-18 12:34:04.4128 INFO Creating a temp file for JSON
+2021-03-18 12:34:04.4215 INFO appending a JSON entry
+2021-03-18 12:35:15.8776 INFO EXIT at Select Action 
+2021-03-18 12:35:15.8787 INFO Exit the Program
+2021-03-18 12:35:25.1216 INFO ADD at Select Action 
+2021-03-18 12:35:48.3665 INFO Display Available genres (1 thru 19)
+2021-03-18 12:35:48.3672 INFO Adding a genre
+2021-03-18 12:35:50.8068 INFO Added genre number 5 to the movie
+2021-03-18 12:35:54.9913 INFO Added genre number 12 to the movie
+2021-03-18 12:35:59.6710 INFO Added genre number 6 to the movie
+2021-03-18 12:36:03.3496 INFO Added genre number 9 to the movie
+2021-03-18 12:36:05.0719 INFO Added: 164999,Time Boats Buses (1967),Comedy|Musical|Crime|Fantasy
+2021-03-18 12:36:05.0731 INFO Creating a temp file for JSON
+2021-03-18 12:36:05.0818 INFO appending a JSON entry
+2021-03-18 12:36:11.3934 INFO EXIT at Select Action 
+2021-03-18 12:36:11.3943 INFO Exit the Program
+2021-03-18 13:39:49.7294 INFO ADD at Select Action 
+2021-03-18 13:40:31.5349 INFO Display Available genres (1 thru 19)
+2021-03-18 13:40:31.5357 INFO Adding a genre
+2021-03-18 13:40:34.7742 INFO Added genre number 5 to the movie
+2021-03-18 13:40:45.2806 INFO Added: 165000,Chairman of the bored  (1990),Comedy
+2021-03-18 13:40:45.2819 INFO Creating a temp file for JSON
+2021-03-18 13:40:45.2906 INFO appending a JSON entry
+2021-03-18 13:40:48.3855 INFO EXIT at Select Action 
+2021-03-18 13:40:48.3866 INFO Exit the Program
+2021-03-18 13:44:57.3297 INFO LIST at Select Action 
+2021-03-18 13:44:57.3664 INFO Deciding on forward or reverse order.
+2021-03-18 13:45:00.1902 INFO Movies viewed in reserve order.
+2021-03-18 13:45:00.1926 INFO Close Read for reverse order
+2021-03-18 13:45:00.1936 INFO Another 30 movies viewed.
+2021-03-18 13:45:03.0920 INFO Quit the movie viewing.
+2021-03-18 13:45:03.0929 INFO Closing Reader
+2021-03-18 13:45:08.1656 INFO LIST at Select Action 
+2021-03-18 13:45:08.1665 INFO Deciding on forward or reverse order.
+2021-03-18 13:45:10.9330 INFO Another 30 movies viewed.
+2021-03-18 13:45:13.2503 INFO Quit the movie viewing.
+2021-03-18 13:45:13.2511 INFO Closing Reader
+2021-03-18 13:45:15.5001 INFO ADD at Select Action 
+2021-03-18 13:45:52.5799 INFO Display Available genres (1 thru 19)
+2021-03-18 13:45:52.5799 INFO Adding a genre
+2021-03-18 13:45:56.5370 INFO Added genre number 13 to the movie
+2021-03-18 13:45:58.1015 INFO Added: 165001,Unsaved Files (1998),Mystery
+2021-03-18 13:45:58.1026 INFO Creating a temp file for JSON
+2021-03-18 13:45:58.1107 INFO appending a JSON entry
+2021-03-18 13:46:01.9027 INFO EXIT at Select Action 
+2021-03-18 13:46:01.9037 INFO Exit the Program
+2021-03-18 13:46:24.0026 INFO ADD at Select Action 
+2021-03-18 13:46:53.4363 INFO Display Available genres (1 thru 19)
+2021-03-18 13:46:53.4371 INFO Adding a genre
+2021-03-18 13:46:57.7111 INFO Added genre number 7 to the movie
+2021-03-18 13:47:06.9768 INFO Added genre number 3 to the movie
+2021-03-18 13:47:08.5778 INFO Added: 165002,Full Control of nothing (1984),Documentary|Animation
+2021-03-18 13:47:08.5790 INFO Creating a temp file for JSON
+2021-03-18 13:47:08.5888 INFO appending a JSON entry
+2021-03-18 13:47:13.0603 INFO LIST at Select Action 
+2021-03-18 13:47:13.0615 INFO Deciding on forward or reverse order.
+2021-03-18 13:47:16.0790 INFO Movies viewed in reserve order.
+2021-03-18 13:47:16.0808 INFO Close Read for reverse order
+2021-03-18 13:47:16.0827 INFO Another 30 movies viewed.
+2021-03-18 13:47:21.3805 INFO Quit the movie viewing.
+2021-03-18 13:47:21.3812 INFO Closing Reader
+2021-03-18 13:47:27.2900 INFO LIST at Select Action 
+2021-03-18 13:47:27.2908 INFO Deciding on forward or reverse order.
+2021-03-18 13:47:30.4863 INFO Another 30 movies viewed.
+2021-03-18 13:47:38.3175 INFO Quit the movie viewing.
+2021-03-18 13:47:38.3183 INFO Closing Reader
+2021-03-18 13:47:42.5034 INFO EXIT at Select Action 
+2021-03-18 13:47:42.5045 INFO Exit the Program

@@ -2,8 +2,11 @@ using System;
 using System.IO;
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    class AddMovie : IAddMovie
+
+    public class AddMovie : IAddMovie
     {
+        public static string movieString;
+        public static string movieJSONString;
         ActionSelected action = new ActionSelected();
         GenreAdder genreAdder = new GenreAdder();
         NLogger nLogger = new NLogger();
@@ -11,6 +14,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         string file = "movies.csv";
         StreamReader sr = new StreamReader("movies.csv");
         StreamWriter sw = new StreamWriter("movies.csv", true);
+
         public void addMovieProcess()
         {
             {
@@ -58,7 +62,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 if (movieName.Contains(","))
                 {
                     movieName = "\"" + movieName.Trim() + "\"";
-                     nLogger.nLog("An attempt to add a Movie was aborted");
+                    nLogger.nLog("An attempt to add a Movie was aborted");
                 }
                 sr = new StreamReader(file);
 
@@ -81,31 +85,43 @@ namespace A4___Movie_Library_Assignment_LINZ
                     }
                 }
                 sr.Close();
-                string movieString;
-                string movieJSONString;
+
                 string genreAddCopy = genreAdder.genreAdd();
                 movieString = movieIdNew + "," + movieName.Trim() + "," + genreAddCopy;
 
                 movieJSONString =
-                ",{" + "\n" +"\t" + "\""  + "movieId" + "\"" + ": " + movieIdNew + "," + "\n"
-                 +"\t" + "\"" + "title" + "\"" + ": " + "\"" + movieName.Trim() + "\"" + "," + "\n"
-                 +"\t" + "\"" + "genres" + "\"" + ": " + "\"" + genreAddCopy + "\"" + "\n" + "}" + "\n";
+                ",{" + "\n" + "\t" + "\"" + "movieId" + "\"" + ": " + movieIdNew + "," + "\n"
+                 + "\t" + "\"" + "title" + "\"" + ": " + "\"" + movieName.Trim() + "\"" + "," + "\n"
+                 + "\t" + "\"" + "genres" + "\"" + ": " + "\"" + genreAddCopy + "\"" + "\n" + "}" + "\n";
 
                 System.Console.WriteLine(movieString);
-                sw.WriteLine(movieString);
+
+                IRepository repositoryCSV = new WriteCSV();
+                repositoryCSV.fileWrite();
 
                 removeBracket();
-                nLogger.nLog("appending a JSON entry");
-                File.AppendAllText("movies.tmp", movieJSONString);
-                File.AppendAllText("movies.tmp", "]" + "\n");
-                File.Delete("movies.json");
-                File.Move("movies.tmp","movies.json");
+
+                IRepository repositoryJSON = new WriteJSON();
+                repositoryJSON.fileWrite();
 
                 sw.Close();
                 sr.Close();
                 action.selectAction();
-            }          
+            }
         }
+        public string addNewMovie()
+        {
+            string movieTemp;
+            movieTemp = movieString;
+            return movieTemp;
+        }
+        public string addNewJSON()
+        {
+            string movieJSON;
+            movieJSON = movieJSONString;
+            return movieJSON;
+        }
+
         void abortProcess()
         {
             Console.WriteLine("\n Press Enter to continue or Escape (Esc) to abort the movie adding process. \n");
