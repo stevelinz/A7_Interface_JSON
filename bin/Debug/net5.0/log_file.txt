@@ -441,3 +441,29 @@
 2021-03-18 20:50:19.1513 INFO appending a JSON entry
 2021-03-18 20:50:26.2837 INFO EXIT at Select Action 
 2021-03-18 20:50:26.2845 INFO Exit the Program
+2021-03-18 22:19:28.5528 INFO ADD at Select Action 
+2021-03-18 22:20:00.1446 INFO Display Available genres (1 thru 19)
+2021-03-18 22:20:00.1455 INFO Adding a genre
+2021-03-18 22:21:23.7235 INFO ADD at Select Action 
+2021-03-18 22:21:47.4503 INFO Display Available genres (1 thru 19)
+2021-03-18 22:21:47.4511 INFO Adding a genre
+2021-03-19 07:45:55.9594 INFO ADD at Select Action 
+2021-03-19 07:47:04.4992 INFO Display Available genres (1 thru 19)
+2021-03-19 07:47:04.4999 INFO Adding a genre
+2021-03-19 07:47:21.0451 INFO Added genre number 7 to the movie
+2021-03-19 07:47:45.4134 INFO Added: 165004,Whiteboard design (2001),Documentary
+2021-03-19 07:47:45.4146 INFO Creating a temp file for JSON
+2021-03-19 07:47:45.4252 INFO appending a JSON entry
+2021-03-19 07:52:30.7060 INFO ADD at Select Action 
+2021-03-19 07:53:03.4010 INFO Display Available genres (1 thru 19)
+2021-03-19 07:53:03.4018 INFO Adding a genre
+2021-03-19 07:53:09.5309 INFO Wrong input 0 given
+2021-03-19 07:53:19.3290 INFO Wrong input 0 given
+2021-03-19 07:53:26.6184 INFO Added genre number 7 to the movie
+2021-03-19 07:53:33.8180 INFO Wrong input 0 given
+2021-03-19 07:53:46.2033 INFO Added genre number 12 to the movie
+2021-03-19 07:53:47.8238 INFO Added: 165005,The sound of sound (1983),Documentary|Musical
+2021-03-19 07:53:47.8249 INFO Creating a temp file for JSON
+2021-03-19 07:53:47.8336 INFO appending a JSON entry
+2021-03-19 07:53:52.2109 INFO EXIT at Select Action 
+2021-03-19 07:53:52.2118 INFO Exit the Program
