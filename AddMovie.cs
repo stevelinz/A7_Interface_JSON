@@ -10,13 +10,10 @@ namespace A4___Movie_Library_Assignment_LINZ
         ActionSelected action = new ActionSelected();
         GenreAdder genreAdder = new GenreAdder();
         NLogger nLogger = new NLogger();
-
-        string file = "movies.csv";
-        StreamReader sr = new StreamReader("movies.csv");
-        StreamWriter sw = new StreamWriter("movies.csv", true);
-
         public void addMovieProcess()
         {
+            string file = "movies.csv";
+            StreamReader sr = new StreamReader("movies.csv");
             {
                 int movieIdNew = 0;
                 string movieId = "", line = "";
@@ -64,6 +61,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                     movieName = "\"" + movieName.Trim() + "\"";
                     nLogger.nLog("An attempt to add a Movie was aborted");
                 }
+                sr.Close();
                 sr = new StreamReader(file);
 
                 while (!sr.EndOfStream)
@@ -80,7 +78,6 @@ namespace A4___Movie_Library_Assignment_LINZ
                         nLogger.nLog("Tried to add an existing movie");
                         System.Console.WriteLine(" This movie is already on the list");
                         sr.Close();
-                        sw.Close();
                         action.selectAction();
                     }
                 }
@@ -104,7 +101,6 @@ namespace A4___Movie_Library_Assignment_LINZ
                 IRepository repositoryJSON = new WriteJSON();
                 repositoryJSON.fileWrite();
 
-                sw.Close();
                 sr.Close();
                 action.selectAction();
             }
@@ -129,6 +125,7 @@ namespace A4___Movie_Library_Assignment_LINZ
             if (key.Key == ConsoleKey.Escape)
             {
                 nLogger.nLog("Aborted the new movie add");
+                StreamReader sr = new StreamReader("movies.csv");
                 sr.Close();
                 action.selectAction();
             }

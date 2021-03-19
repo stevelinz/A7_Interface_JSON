@@ -400,3 +400,44 @@
 2021-03-18 13:47:38.3183 INFO Closing Reader
 2021-03-18 13:47:42.5034 INFO EXIT at Select Action 
 2021-03-18 13:47:42.5045 INFO Exit the Program
+2021-03-18 14:15:39.2879 INFO LIST at Select Action 
+2021-03-18 14:15:39.3265 INFO Deciding on forward or reverse order.
+2021-03-18 14:15:41.3029 INFO Movies viewed in reserve order.
+2021-03-18 14:15:41.3054 INFO Close Read for reverse order
+2021-03-18 14:15:41.3065 INFO Another 30 movies viewed.
+2021-03-18 14:15:43.9572 INFO Quit the movie viewing.
+2021-03-18 14:15:43.9580 INFO Closing Reader
+2021-03-18 14:15:45.7678 INFO ADD at Select Action 
+2021-03-18 14:16:03.7661 INFO Aborted the new movie add
+2021-03-18 14:16:06.6468 INFO EXIT at Select Action 
+2021-03-18 14:16:06.6478 INFO Exit the Program
+2021-03-18 14:17:02.9047 INFO LIST at Select Action 
+2021-03-18 14:17:02.9434 INFO Deciding on forward or reverse order.
+2021-03-18 14:17:11.5020 INFO Movies viewed in reserve order.
+2021-03-18 14:17:11.5045 INFO Close Read for reverse order
+2021-03-18 14:17:11.5058 INFO Another 30 movies viewed.
+2021-03-18 14:17:14.3476 INFO Quit the movie viewing.
+2021-03-18 14:17:14.3484 INFO Closing Reader
+2021-03-18 14:17:18.7685 INFO ADD at Select Action 
+2021-03-18 17:04:27.4761 INFO Aborted the new movie add
+2021-03-18 17:04:30.0964 INFO LIST at Select Action 
+2021-03-18 17:04:30.0972 INFO Deciding on forward or reverse order.
+2021-03-18 17:04:32.8304 INFO Movies viewed in reserve order.
+2021-03-18 17:04:32.8326 INFO Close Read for reverse order
+2021-03-18 17:04:32.8343 INFO Another 30 movies viewed.
+2021-03-18 17:04:35.5107 INFO Quit the movie viewing.
+2021-03-18 17:04:35.5120 INFO Closing Reader
+2021-03-18 17:04:38.4660 INFO ADD at Select Action 
+2021-03-18 17:04:44.2036 INFO Aborted the new movie add
+2021-03-18 17:04:46.5433 INFO EXIT at Select Action 
+2021-03-18 17:04:46.5433 INFO Exit the Program
+2021-03-18 20:49:33.3358 INFO ADD at Select Action 
+2021-03-18 20:50:08.8828 INFO Display Available genres (1 thru 19)
+2021-03-18 20:50:08.8840 INFO Adding a genre
+2021-03-18 20:50:13.1336 INFO Added genre number 2 to the movie
+2021-03-18 20:50:17.2732 INFO Added genre number 8 to the movie
+2021-03-18 20:50:19.1408 INFO Added: 165003,Monday Wednesday Friday  (1972),Adventure|Drama
+2021-03-18 20:50:19.1421 INFO Creating a temp file for JSON
+2021-03-18 20:50:19.1513 INFO appending a JSON entry
+2021-03-18 20:50:26.2837 INFO EXIT at Select Action 
+2021-03-18 20:50:26.2845 INFO Exit the Program

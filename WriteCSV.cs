@@ -11,7 +11,6 @@ namespace A4___Movie_Library_Assignment_LINZ
         }
         void addCSV (){
 
-            StreamReader sr = new StreamReader("movies.csv");
             StreamWriter sw = new StreamWriter("movies.csv", true);
 
             AddMovie addMovie = new AddMovie();
@@ -19,7 +18,6 @@ namespace A4___Movie_Library_Assignment_LINZ
 
             sw.WriteLine(addMovie.addNewMovie());
             nLogger.nLog("Added: " + addMovie.addNewMovie());
-            sr.Close();
             sw.Close();
 
         }
