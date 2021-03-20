@@ -50,8 +50,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 string movieName = "";
                 Console.Write("Enter the name of the movie you want to add, date in form (yyyy)\n");
                 System.Console.WriteLine("\t(You will have the opportunity to abort if needed)");
-                System.Console.WriteLine("\n");
-
+                System.Console.Write("\nMovie: ");
                 movieName = Console.ReadLine();
 
                 abortProcess();
@@ -91,7 +90,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                  + "\t" + "\"" + "title" + "\"" + ": " + "\"" + movieName.Trim() + "\"" + "," + "\n"
                  + "\t" + "\"" + "genres" + "\"" + ": " + "\"" + genreAddCopy + "\"" + "\n" + "}" + "\n";
 
-                System.Console.WriteLine(movieString);
+                System.Console.WriteLine("\t\n"+ movieString);
 
                 IRepository repositoryCSV = new WriteCSV();
                 repositoryCSV.fileWrite();
@@ -120,7 +119,7 @@ namespace A4___Movie_Library_Assignment_LINZ
 
         void abortProcess()
         {
-            Console.WriteLine("\n Press Enter to continue or Escape (Esc) to abort the movie adding process. \n");
+            Console.Write("\n Press Enter to continue or Escape (Esc) to abort the movie adding process. \t");
             var key = Console.ReadKey();
             if (key.Key == ConsoleKey.Escape)
             {

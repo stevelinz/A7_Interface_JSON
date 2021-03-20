@@ -18,7 +18,7 @@ namespace A4___Movie_Library_Assignment_LINZ
 
             string listReverseOrder = "";
 
-            System.Console.WriteLine("\tThis is a LONG list. You are given the option to start at the beginning.");
+            System.Console.WriteLine("\n\tThis is a LONG list. You are given the option to start at the beginning.");
             System.Console.WriteLine("\t\tOr you can start at the end and read the back to front\n\n");
 
             System.Console.Write("\tWould you like to view the list from the end to the beginning? [Y]es [N]o?    ");
@@ -65,7 +65,7 @@ namespace A4___Movie_Library_Assignment_LINZ
         {
             if (currentStart == nextStart)
             {
-                System.Console.WriteLine("\nPress Enter for the next 30 movies or Q to quit");
+                System.Console.Write("\nPress Enter for the next 30 movies or Q to quit\t");
                 nLogger.nLog("Another 30 movies viewed.");
                 start = Console.ReadLine();
                 if (start == "q" || start == "Q" || start == "quit" || start == "Quit")

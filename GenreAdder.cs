@@ -11,6 +11,7 @@ namespace A4___Movie_Library_Assignment_LINZ
 
             int count = 0;
             string genreString = "";
+            System.Console.WriteLine();
             string[] genreArray = {"Empty","Action", "Adventure", "Animation", "Children's",
                 "Comedy", "Crime", "Documentary", "Drama", "Fantasy", "Film-Noir", "Horror",
                 "Musical", "Mystery", "Romance", "Sci-Fi", "Thriller", "War", "Western", "(no genres listed)"};
@@ -18,7 +19,7 @@ namespace A4___Movie_Library_Assignment_LINZ
             GenreDisplay genreDisplay = new GenreDisplay();
             genreDisplay.showGenres();
             System.Console.WriteLine("Enter number for a genre to add 1 through 19 you will add them one at a time.");
-            System.Console.WriteLine("When your input is complete, then 0 for done, and then the movie is added.\n\n");
+            System.Console.Write("When your input is complete, then 0 for done, and then the movie is added.\t");
             nLogger.nLog("Adding a genre");
             testInput();
             nLogger.nLog("Added genre number " + genreSelect + " to the movie");
@@ -29,10 +30,8 @@ namespace A4___Movie_Library_Assignment_LINZ
                     genreString = genreString + genreArray[genreSelect];
                     count++;
                 }
-                System.Console.Write(genreArray[genreSelect] + " \n\n");
-                System.Console.WriteLine("\tEnter number for a genre to add 1 through 19, ");
-                System.Console.Write("\tor 0 when  done and then the movie is added.\t");
-                System.Console.WriteLine();
+                System.Console.Write(genreArray[genreSelect] + " \n");
+                System.Console.Write("\t(Enter number for another genre to add 1 through 19 or 0 when done:  ");
                 testInput();
                 if (genreSelect < 1 || genreSelect > 20)
                 {

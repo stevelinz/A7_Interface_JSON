@@ -8,9 +8,9 @@ namespace A4___Movie_Library_Assignment_LINZ
         {
             NLogger nLogger = new NLogger();
             string select = "";
-            System.Console.WriteLine("\n   ~~~~Movie Library Database~~~~ ");
+            System.Console.WriteLine("\n   ~~~~Movie Library Database~~~~ \n");
         andAgain:
-            System.Console.WriteLine("Enter: \n1 List movies \n2 Add new Movie \n3 Exit\n");
+            System.Console.Write("Enter: \n1 List movies \n2 Add new Movie \n3 Exit\t\t\t");
             select = System.Console.ReadLine();
             switch (select)
             {

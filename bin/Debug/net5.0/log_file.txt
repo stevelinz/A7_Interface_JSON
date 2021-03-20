@@ -467,3 +467,80 @@
 2021-03-19 07:53:47.8336 INFO appending a JSON entry
 2021-03-19 07:53:52.2109 INFO EXIT at Select Action 
 2021-03-19 07:53:52.2118 INFO Exit the Program
+2021-03-19 23:01:44.2773 INFO LIST at Select Action 
+2021-03-19 23:01:44.3175 INFO Deciding on forward or reverse order.
+2021-03-19 23:02:55.2359 INFO LIST at Select Action 
+2021-03-19 23:02:55.2753 INFO Deciding on forward or reverse order.
+2021-03-19 23:03:00.5764 INFO Another 30 movies viewed.
+2021-03-19 23:04:10.8001 INFO LIST at Select Action 
+2021-03-19 23:04:10.8391 INFO Deciding on forward or reverse order.
+2021-03-19 23:04:15.1693 INFO Another 30 movies viewed.
+2021-03-19 23:04:20.3001 INFO Another 30 movies viewed.
+2021-03-19 23:04:25.7554 INFO Quit the movie viewing.
+2021-03-19 23:04:25.7561 INFO Closing Reader
+2021-03-19 23:04:33.0228 INFO LIST at Select Action 
+2021-03-19 23:04:33.0236 INFO Deciding on forward or reverse order.
+2021-03-19 23:04:45.7461 INFO Movies viewed in reserve order.
+2021-03-19 23:04:45.7501 INFO Close Read for reverse order
+2021-03-19 23:04:45.7534 INFO Another 30 movies viewed.
+2021-03-19 23:04:49.6385 INFO Quit the movie viewing.
+2021-03-19 23:04:49.6385 INFO Closing Reader
+2021-03-19 23:04:57.1633 INFO ADD at Select Action 
+2021-03-19 23:05:16.8629 INFO Aborted the new movie add
+2021-03-19 23:05:20.5406 INFO EXIT at Select Action 
+2021-03-19 23:05:20.5415 INFO Exit the Program
+2021-03-19 23:06:22.3985 INFO ADD at Select Action 
+2021-03-19 23:06:59.4999 INFO Aborted the new movie add
+2021-03-19 23:07:02.2352 INFO EXIT at Select Action 
+2021-03-19 23:07:02.2362 INFO Exit the Program
+2021-03-19 23:07:57.8494 INFO ADD at Select Action 
+2021-03-19 23:08:39.8700 INFO Display Available genres (1 thru 19)
+2021-03-19 23:08:39.8710 INFO Adding a genre
+2021-03-19 23:08:55.6728 INFO Added genre number 7 to the movie
+2021-03-19 23:09:03.1342 INFO Added: 165006,Numbers and Letters (1983),Documentary
+2021-03-19 23:09:03.1355 INFO Creating a temp file for JSON
+2021-03-19 23:09:03.1459 INFO appending a JSON entry
+2021-03-19 23:09:10.4473 INFO EXIT at Select Action 
+2021-03-19 23:09:10.4482 INFO Exit the Program
+2021-03-19 23:11:50.9980 INFO ADD at Select Action 
+2021-03-19 23:12:28.9131 INFO Display Available genres (1 thru 19)
+2021-03-19 23:12:28.9140 INFO Adding a genre
+2021-03-19 23:12:49.9376 INFO Added genre number 5 to the movie
+2021-03-19 23:13:24.6535 INFO Added: 165007,Something is missing. (1983),Comedy
+2021-03-19 23:13:24.6554 INFO Creating a temp file for JSON
+2021-03-19 23:13:24.6641 INFO appending a JSON entry
+2021-03-19 23:13:33.4837 INFO EXIT at Select Action 
+2021-03-19 23:13:33.4848 INFO Exit the Program
+2021-03-19 23:17:08.3649 INFO ADD at Select Action 
+2021-03-19 23:17:36.4624 INFO Display Available genres (1 thru 19)
+2021-03-19 23:17:36.4634 INFO Adding a genre
+2021-03-19 23:17:47.1141 INFO Added genre number 17 to the movie
+2021-03-19 23:18:02.6948 INFO Added: 165008,Fall of 1934 (1983),War
+2021-03-19 23:18:02.6959 INFO Creating a temp file for JSON
+2021-03-19 23:18:02.7047 INFO appending a JSON entry
+2021-03-19 23:18:07.6442 INFO EXIT at Select Action 
+2021-03-19 23:18:07.6451 INFO Exit the Program
+2021-03-19 23:18:51.3535 INFO ADD at Select Action 
+2021-03-19 23:19:09.5018 INFO Display Available genres (1 thru 19)
+2021-03-19 23:19:09.5026 INFO Adding a genre
+2021-03-19 23:19:32.1953 INFO Added genre number 7 to the movie
+2021-03-19 23:19:52.0403 INFO Added: 165009,TVs and Radios (1983),Documentary
+2021-03-19 23:19:52.0416 INFO Creating a temp file for JSON
+2021-03-19 23:19:52.0505 INFO appending a JSON entry
+2021-03-19 23:22:28.6436 INFO EXIT at Select Action 
+2021-03-19 23:22:28.6444 INFO Exit the Program
+2021-03-19 23:22:46.3811 INFO ADD at Select Action 
+2021-03-19 23:23:22.0138 INFO Display Available genres (1 thru 19)
+2021-03-19 23:23:22.0149 INFO Adding a genre
+2021-03-19 23:23:29.4125 INFO Added genre number 13 to the movie
+2021-03-19 23:23:42.3496 INFO Added genre number 11 to the movie
+2021-03-19 23:24:01.7330 INFO Added: 165010,Keys to the door (1959),Mystery|Horror
+2021-03-19 23:24:01.7342 INFO Creating a temp file for JSON
+2021-03-19 23:24:01.7426 INFO appending a JSON entry
+2021-03-19 23:28:17.9777 INFO ADD at Select Action 
+2021-03-19 23:29:08.4491 INFO Display Available genres (1 thru 19)
+2021-03-19 23:29:08.4503 INFO Adding a genre
+2021-03-19 23:29:11.5513 INFO Added genre number 15 to the movie
+2021-03-19 23:29:18.3010 INFO Added: 165011,Time on the Moon (1964),Sci-Fi
+2021-03-19 23:29:18.3022 INFO Creating a temp file for JSON
+2021-03-19 23:29:18.3115 INFO appending a JSON entry
